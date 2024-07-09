@@ -33,15 +33,10 @@ for file in g:
             lines_trim = lines[loc_start:]
             loc_end = lines_trim.find('"')
             location = lines_trim[:loc_end]
-                            
-           
+
         location_dict[location] = geocoder.geocode(location)
         print(location, "\n", location_dict[location])
 
 
 m = getorg.orgmap.create_map_obj()
 getorg.orgmap.output_html_cluster_map(location_dict, folder_name="../talkmap", hashed_usernames=False)
-
-
-
-

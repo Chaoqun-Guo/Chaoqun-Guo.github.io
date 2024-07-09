@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Chaoqun Guo / 郭超群"
+title: "Chaoqun Guo"
 title_separator: "-"
 name: &name "Chaoqun Guo"
 description: &description "Currently pursuing a PhD in software engineering, with a research focus on industrial control network intrusion detection, and participating in multiple funded research projects. Proficient in Linux and Python, with project management, data analysis, artificial intelligence, and software development skills. Ability to design security solutions, threat analysis, and develop detection algorithms."
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar: "guocq.png"
   name: "Chaoqun Guo"
-  pronouns: # example: "she/her"
+  pronouns: # "he/him"
   bio: # "Currently studying as a doctoral candidate, research direction is industrial control network anomaly detection"
   location: "Beijing, China"
   employer: "Beijing Jiaotong University"
@@ -76,9 +76,10 @@ author:
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
-future: true
+future: false
 read_more: "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link: false #change to true to add link to talkmap on talks page
+talkmap_link: true #change to true to add link to talkmap on talks page
+
 comments:
   provider: # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -89,6 +90,7 @@ comments:
     appid:
     num_posts: # 5 (default)
     colorscheme: # "light" (default), "dark"
+
 staticman:
   allowedFields: ["name", "email", "url", "message"]
   branch: "gh-pages" # "master", "gh-pages"
@@ -105,8 +107,9 @@ staticman:
       type: "date"
       options:
         format: "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+
 atom_feed:
-  hide: false # change to true to hide the RSS feed in the footer
+  hide: true # change to true to hide the RSS feed in the footer
   path: # blank (default) uses feed.xml
 
 # SEO Related
@@ -165,6 +168,16 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - _pages/sitemap.md
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  # - _pages/tag-archive.html
+  - _pages/collection-archive.html
+  - _pages/page-archive.html
+  - _pages/markdown.md
+  - _pages/talkmap.md
+  - _pages/teaching.md
+  - _pages/talks.html
 keep_files:
   - .git
   - .svn
@@ -191,18 +204,21 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
+  posts:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:categories/:title/
 
 # Defaults
 defaults:
@@ -212,26 +228,25 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
+      read_time: false
       comments: true
       share: true
-      related: true
-      feture: false
+      related: false
   # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # _teaching
   - scope:
       path: ""
       type: teaching
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _publications
@@ -240,7 +255,7 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _portfolio
@@ -249,7 +264,7 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comment: true
   # _talks
@@ -258,7 +273,7 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
+      author_profile: false
       share: true
 
 # Sass/SCSS
@@ -304,16 +319,16 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 # HTML Compression
 # - http://jch.penibelst.de/
