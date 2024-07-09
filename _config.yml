@@ -11,7 +11,7 @@ locale: "en-US"
 title: "Chaoqun Guo / 郭超群"
 title_separator: "-"
 name: &name "Chaoqun Guo"
-description: &description "personal description"
+description: &description "Currently pursuing a PhD in software engineering, with a research focus on industrial control network intrusion detection, and participating in multiple funded research projects. Proficient in Linux and Python, with project management, data analysis, artificial intelligence, and software development skills. Ability to design security solutions, threat analysis, and develop detection algorithms."
 url: https://Chaoqun-Guo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "chaoqun-Guo/Chaoqun-Guo.github.io"
@@ -21,7 +21,7 @@ repository: "chaoqun-Guo/Chaoqun-Guo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
+  avatar: "guocq.png"
   name: "Chaoqun Guo"
   pronouns: # example: "she/her"
   bio: # "Currently studying as a doctoral candidate, research direction is industrial control network anomaly detection"
