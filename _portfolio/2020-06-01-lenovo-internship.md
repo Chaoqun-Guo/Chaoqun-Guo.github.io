@@ -1,9 +1,9 @@
 ---
-title: "Lenovo Internship."
+title: "Lenovo Internship"
 date: 2020-06-01
-excerpt: "Lenovo Rearch Internship."
+excerpt: "Lenovo AI Rearch Internship."
 # excerpt: "Lenovo Research. <br/> <img src='/images/lenovo/lenovo.jpeg' width='200' height='100'>"
-permalink: /portfolio/2020/06/lenovo-internship/
+permalink: /portfolio/2020/06/01/lenovo-internship/
 collection: portfolio
 ---
 

@@ -25,7 +25,7 @@ redirect_from:
 
 ## Education
 
-### Beijing Jiaotong University | Ph.D. Candidate
+### Beijing JiaoTong University | Ph.D. Candidate
 
 Software Engineering, School of Software Engineering, Ph.D. Candidate, 2020.09 - 2024.12 (Expected)
 
@@ -33,9 +33,9 @@ Research Focus: Data-Driven Industrial Control Network Anomaly Detection and Tra
 
 Publications and Research Projects:
 
-- Guo C, Wang N, Sun Y, et al. DTC: Addressing the long-tailed problem in intrusion detection through the divide-then-conquer paradigm. _2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS)_. IEEE, 2023: 1319-1326.
+- Guo C, Wang N, Sun Y, et al. DTC: Addressing the long-tailed problem in intrusion detection through the divide-then-conquer paradigm. 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS). IEEE, 2023: 1319-1326.
 
-- Xu F, Wang N, Guo C, et al. Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection. _2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS)_. IEEE, 2023: 288-295.
+- Xu F, Wang N, Guo C, et al. Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection. 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS). IEEE, 2023: 288-295.
 
 - CCF-NSFOCUS “Kunpeng” Fund: Research on Tracking and Detecting Potential APT Attacks Based on Traceability Graphs, 2023-2024, Participant
 
