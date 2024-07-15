@@ -1,8 +1,8 @@
 ---
-title: "Automating Docker Container Command Execution with a Bash Script."
+title: "Automating Docker Container Command Execution with a Bash Script"
 date: 2020-01-12
 permalink: /posts/2020/01/12/shell/
-excerpt: "Automating Docker Container Command Execution with a Bash Script."
+excerpt: "Automating Docker Container Command Execution with a Bash Script"
 tags:
   - linux
   - shell

@@ -1,8 +1,8 @@
 ---
-title: "QR Code Generation Script."
+title: "QR Code Generation Script"
 date: 2020-01-10
 permalink: /posts/2020/01/10/shell/
-excerpt: "Use qrencode to generate QR code."
+excerpt: "Use qrencode to generate QR code"
 tags:
   - linux
   - shell
