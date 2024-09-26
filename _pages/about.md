@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1>A highly responsible and technically skilled person.</h1>
+<h3>A highly responsible and technically skilled person.</h3>
 
 <h3>He is currently pursuing a PhD in Software Engineering, with a research focus on industrial control network intrusion detection, and is involved in multiple funded research projects.</h3>
 

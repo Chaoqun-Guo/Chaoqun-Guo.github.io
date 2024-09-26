@@ -27,15 +27,17 @@ redirect_from:
 
 ### Beijing JiaoTong University | Ph.D. Candidate
 
-Software Engineering, School of Software Engineering, Ph.D. Candidate, 2020.09 - 2024.12 (Expected)
+Software Engineering, School of Software Engineering, Ph.D. Candidate, 2020.09 - 2025.03 (Expected)
 
 Research Focus: Data-Driven Industrial Control Network Anomaly Detection and Traceability Analysis
 
 Publications and Research Projects:
 
-- Guo C, Wang N, Sun Y, et al. DTC: Addressing the long-tailed problem in intrusion detection through the divide-then-conquer paradigm. 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS). IEEE, 2023: 1319-1326.
+- Guo C, Wang N, Sun Y, et al. DTC: Addressing the long-tailed problem in intrusion detection through the divide-then-conquer paradigm.
+  2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS). IEEE, 2023: 1319-1326.
 
-- Xu F, Wang N, Guo C, et al. Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection. 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS). IEEE, 2023: 288-295.
+- Xu F, Wang N, Guo C, et al. Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection.
+  2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS). IEEE, 2023: 288-295.
 
 - CCF-NSFOCUS “Kunpeng” Fund: Research on Tracking and Detecting Potential APT Attacks Based on Traceability Graphs, 2023-2024, Participant
 
@@ -75,14 +77,14 @@ E-commerce, School of E-commerce and Logistics Management, 2014.09 - 2018.06
 ### Lenovo Software (Beijing) Co., Ltd. Data Analysis Intern / Lenovo Research Institute - AI Lab 2019.09 - 2023.03
 
 1. **SIOT Project: Assist in predicting mobile phone parts failure and big data analysis**  
-   **Project Lead**
+   **Project Leader**
 
    - Utilized Google Big Query system to identify and analyze blind spots in classification predictions (misclassifications, inaccurate predictions, etc.)
    - Proposed personalized data correction schemes for different models, batches, regions, etc., optimizing data accuracy for different products
    - Corrected data errors in mobile firmware versions (e.g., remaining capacity and resistance in battery prediction models) to ensure high data quality and accuracy
 
 2. **Big Data Governance Tool Development, Deployment, Integration, and Maintenance**  
-   **Project Lead**
+   **Project Leader**
 
    - Developed and maintained big data governance tools required by the project team, including data quality management, metadata management, and data security
    - Deployed big data governance tools, configured system environments, and optimized performance, ensuring high efficiency and stability in handling large-scale data
@@ -92,7 +94,7 @@ E-commerce, School of E-commerce and Logistics Management, 2014.09 - 2018.06
    - The big data platform mainly involves Apache Atlas, Apache Solr, Amundsen, Superset, etc.
 
 3. **Finance Web Scraper and Email Push Service**  
-   **Project Lead**
+   **Project Leader**
 
    - Requirement analysis and web scraper development: Identified the required stock trading information and data sources, analyzed data formats and acquisition methods; used Python to write web scrapers with BeautifulSoup, Scrapy, and Selenium to scrape stock trading data, ensuring data completeness and consistency
    - Data storage and updating: Designed and implemented appropriate database structures using MySQL for efficient data storage; regularly ran scrapers to obtain the latest stock trading information and implemented incremental updates
@@ -101,7 +103,7 @@ E-commerce, School of E-commerce and Logistics Management, 2014.09 - 2018.06
    - Log monitoring and maintenance optimization: Monitored system status, recorded logs and handled errors, ensured system stability; regularly optimized and maintained the system, improved performance, and added new features
 
 4. **PST Email Parsing Service Based on MinIO**  
-   **Project Lead**
+   **Project Leader**
 
    - Requirement analysis and service architecture design: Understood service requirements, determined functionality and performance requirements for PST email parsing; designed a distributed storage system architecture based on MinIO, ensuring high availability and scalability
    - PST parsing development and data storage: Used Python to write PST file parsing programs, extracting emails, attachments, calendars, and contacts; stored parsed email data in MinIO, designed and implemented efficient data storage structures and indexing mechanisms
