@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Chaoqun Guo / 郭超群 "
+title: "Chaoqun Guo"
 title_separator: "-"
 name: &name "Chaoqun Guo"
 description: &description "Currently pursuing a PhD in software engineering, with a research focus on industrial control network intrusion detection, and participating in multiple funded research projects. Proficient in Linux and Python, with project management, data analysis, artificial intelligence, and software development skills. Ability to design security solutions, threat analysis, and develop detection algorithms."
@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar: "guocq.png"
   name: "Chaoqun Guo"
-  pronouns: "He/Him"
+  # pronouns: "He/Him"
   bio: # "Currently studying as a doctoral candidate, research direction is industrial control network anomaly detection"
   location: "Beijing, China"
   employer: "Beijing Jiaotong University"
   uri: # URL
-  email: "chaoqunguo317@gmail.com"
+  email: "chaoqunguo317@outlook.com"
 
   # Academic websites
   arxiv: # URL - Update with the correct link to your profile
