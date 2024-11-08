@@ -4,7 +4,7 @@ title: "CV-中文"
 permalink: /cv-cn/
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume-cn
 ---
 
 {% include base_path %}
