@@ -110,6 +110,14 @@ E-commerce, School of E-commerce and Logistics Management, 2014.09 - 2018.06
 - Skilled in data analysis and artificial intelligence, proficient in using tools like Pandas, NumPy, Scikit-Learn, TensorFlow, and PyTorch for in-depth data analysis and building machine learning models; experienced in project management tools like JIRA and Confluence, capable of effectively planning, executing, and coordinating research projects
 - Committed to continuous learning and growth, eager to leverage technical expertise and research experience to solve complex industrial control network security problems, providing reliable and innovative solutions for the industry
 
+### Projects
+
+---
+
+[Docker Hub](https://hub.docker.com/repositories/chaoqunguo)
+
+[Lenovo Page](https://brand.lenovo.com.cn/brand/SYAL00151.html)
+
 <!--
 Publications
 <ul>{% for post in site.publications reversed %}
