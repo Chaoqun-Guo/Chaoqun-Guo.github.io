@@ -27,7 +27,7 @@ redirect_from:
 
 ### Beijing JiaoTong University | Ph.D. Candidate
 
-Software Engineering, School of Software Engineering, Ph.D. Candidate, 2020.09 - 2025.03 (Expected)
+Software Engineering, School of Software Engineering, Ph.D. Candidate, 2020.09 - 2025.07 (Expected)
 
 Research Focus: Data-Driven Industrial Control Network Anomaly Detection and Traceability Analysis
 
@@ -112,6 +112,7 @@ E-commerce, School of E-commerce and Logistics Management, 2014.09 - 2018.06
 
 5. **LTB Demand Forecast Project**  
    **Responsible for Data Cleaning, Model Building, API Development**
+
    - Participated in the development of Lenovo Intelligent Service Supply Chain System in collaboration with Lenovo Research Institute and business departments, utilizing various machine learning algorithms and operations optimization techniques to optimize service supply chain management, including network planning, parts demand planning, and inventory optimization
    - **Data Cleaning and Preparation:** Developed and executed data cleaning processes, handling large amounts of historical and real-time data to ensure data quality and consistency, providing clean datasets for subsequent analysis and modeling
    - **Model Building and Optimization:** Established models for product generation relevance, such as the correlation model between the failure rate of parts of previous generation products and the failure rate of parts of next-generation products, using regression models and decision trees to analyze and model historical data, improving the accuracy and real-time performance of parts demand forecasting
