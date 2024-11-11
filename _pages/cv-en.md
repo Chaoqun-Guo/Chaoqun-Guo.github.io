@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "CV"
+title: "CV-EN"
 permalink: /cv-en/
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume-en
 ---
 
 {% include base_path %}
@@ -117,24 +117,3 @@ E-commerce, School of E-commerce and Logistics Management, 2014.09 - 2018.06
 [Docker Hub](https://hub.docker.com/repositories/chaoqunguo)
 
 [Lenovo Page](https://brand.lenovo.com.cn/brand/SYAL00151.html)
-
-<!--
-Publications
-<ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
