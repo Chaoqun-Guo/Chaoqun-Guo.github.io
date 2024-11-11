@@ -143,7 +143,7 @@ analytics:
 include:
   - .htaccess
   - _pages
-  - files
+  # - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -178,6 +178,12 @@ exclude:
   - _pages/talkmap.md
   - _pages/teaching.md
   - _pages/talks.html
+  - _pages/portfolio.html
+  - _posts
+  - _talks
+  - _teaching
+  - _portfolio
+  - files
 keep_files:
   - .git
   - .svn
